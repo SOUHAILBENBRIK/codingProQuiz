@@ -31,5 +31,5 @@ Skill Development: It caters to learners at different stages, helping them to im
 Community Engagement: The app fosters a community of learners and enthusiasts, encouraging knowledge sharing and collaboration through its multiplayer and online features.
 Ideal for:
 Students, programming beginners, coding enthusiasts, and professionals looking to sharpen their coding skills and knowledge 
-https://youtu.be/fGsIdeNLPFE
 in an enjoyable, interactive way.
+https://youtu.be/fGsIdeNLPFE
