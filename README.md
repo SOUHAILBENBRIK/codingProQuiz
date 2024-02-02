@@ -4,32 +4,46 @@ Project Description:
 
 "CodingProQuiz" is a dynamic and interactive mobile application designed for coding enthusiasts and learners of all levels. Built using Flutter and leveraging Riverpod for state management, this app offers a unique blend of learning and entertainment through various quiz formats and comprehensive programming tutorials.
 
-Key Features:
+## Table of Contents
 
-Diverse Quiz Categories:
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
-The app features a wide range of quizzes covering different programming languages and concepts, catering to various skill levels from beginners to advanced coders.
-Competitive 1v1 Mode:
+## Features
 
-Users can challenge their coding knowledge in a thrilling 1v1 mode, competing against peers to answer coding questions accurately and swiftly.
-Online Multiplayer Quizzes:
+- **Interactive Learning:** Engage in a variety of quiz formats to enhance your coding skills.
+- **Comprehensive Tutorials:** Access in-depth programming tutorials for continuous learning.
 
-The online mode allows users to join quiz battles with participants worldwide, fostering a competitive and collaborative learning environment.
-Comprehensive Programming Tutorials:
+## Getting Started
 
-"CodingProQuiz" offers an extensive library of tutorials across multiple programming languages. Whether you're learning Python, JavaScript, or any other language, our tutorials provide clear, step-by-step guidance to enhance your coding skills.
-Google Sign-In Integration:
+To get started with CodingProQuiz, follow these steps:
 
-The app offers a seamless login experience with Google Sign-In, enabling users to access their profiles and progress across devices effortlessly.
-State-of-the-Art Technology:
+### Dependencies
 
-Developed using Flutter, the app ensures a smooth and responsive user experience. Riverpod state management empowers the app with efficient handling of dynamic data and user interactions.
-Purpose and Benefits:
+Make sure you have Flutter installed on your machine.
 
-Educational and Fun: "CodingProQuiz" makes learning programming concepts enjoyable and engaging through interactive quizzes and challenges.
-Skill Development: It caters to learners at different stages, helping them to improve their coding proficiency and prepare for programming interviews or competitive coding challenges.
-Community Engagement: The app fosters a community of learners and enthusiasts, encouraging knowledge sharing and collaboration through its multiplayer and online features.
-Ideal for:
-Students, programming beginners, coding enthusiasts, and professionals looking to sharpen their coding skills and knowledge 
-in an enjoyable, interactive way.
-https://youtu.be/fGsIdeNLPFE
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/SOUHAILBENBRIK/codingProQuiz.git
+2. Navigate to the project directory:
+   cd CodingProQuiz
+3. Install the project dependencies:
+   flutter pub get
+
+### Usage
+
+1. Run the app on an emulator or physical device:
+   flutter run
+2. Explore the app and enjoy the CodingProQuiz experience!
+
+## Screenshots
+
+![1.screenshot](https://github.com/SOUHAILBENBRIK/codingProQuiz/blob/master/assets/screenShot/Capture.PNG)
+![2.screenshot](https://github.com/SOUHAILBENBRIK/codingProQuiz/blob/master/assets/screenShot/Capture1.PNG)
+![3.screenshot](https://github.com/SOUHAILBENBRIK/codingProQuiz/blob/master/assets/screenShot/Capture2.PNG)
+
